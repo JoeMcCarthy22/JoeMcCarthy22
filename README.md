@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have recently completed a software engineering bootcamp.<br>This was a 16 week intensive course covering Python, including OOP.<br>I am interested in Health Tech, and I have already created a social prescribing waiting list tool to assist patients.
+I have recently completed a software engineering bootcamp.<br>This was a 16 week intensive course covering Python, and OOP.<br>I am interested in Health Tech, and I have already created a social prescribing waiting list tool to assist patients.
 I have 3 years' experience working within the NHS as a Link Worker.
 
 
