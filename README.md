@@ -1,6 +1,8 @@
 # 💫 About Me:
-I have recently completed a software engineering bootcamp.<br>This was a 16 week intensive course covering Python, and OOP.<br>I am interested in Health Tech, and I have already created a social prescribing waiting list tool to assist patients.
-I have 3 years' experience working within the NHS as a Link Worker.
+Full stack software engineer - focused on web development.
+Developed programs to support my work in Social Prescribing, including a tool that tailors suggestions to support patients on a waiting list for an appointment: signposting to local services for Mental Health, Housing, Benefits and Social Groups.
+
+Engaging and dedicated Community Link Worker with a proven track record of promoting health and wellbeing initiatives. Passionate about creating equitable access to physical activity and sport opportunities. Skilled in programme management, stakeholder engagement, and fostering partnerships to positively impact community health.
 
 
 ## 🌐 Socials:
