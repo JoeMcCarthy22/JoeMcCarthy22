@@ -4,8 +4,6 @@ Developed programs to support my work in Social Prescribing, including a tool th
 
 I am now freelancing in web development! For more info see Website: https://joemccarthy.netlify.app/
 
-Engaging and dedicated Community Link Worker with a proven track record of promoting health and wellbeing initiatives. Passionate about creating equitable access to physical activity and sport opportunities. Skilled in programme management, stakeholder engagement, and fostering partnerships to positively impact community health.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joe-mccarthy-199a08159/) 
