@@ -1,6 +1,6 @@
 # 💫 About Me:
 Full stack software engineer - focused on web development.
-Developed programs to support my work in Social Prescribing, including a tool that tailors suggestions to support patients on a waiting list for an appointment: signposting to local services for Mental Health, Housing, Benefits and Social Groups.
+Developed programs to support my work in Social Prescribing, including a tool that tailors suggestions to support patients on a waiting list for an appointment: signposting to local services for Mental Health, Housing, Benefits and Social Groups. I am now freelancing in web development!
 
 Engaging and dedicated Community Link Worker with a proven track record of promoting health and wellbeing initiatives. Passionate about creating equitable access to physical activity and sport opportunities. Skilled in programme management, stakeholder engagement, and fostering partnerships to positively impact community health.
 
