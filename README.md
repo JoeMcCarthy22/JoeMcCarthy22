@@ -2,7 +2,7 @@
 Full stack software engineer - focused on web development.
 Developed programs to support my work in Social Prescribing, including a tool that tailors suggestions to support patients on a waiting list for an appointment: signposting to local services for Mental Health, Housing, Benefits and Social Groups. 
 
-I am currently taking on clients for web development! For more info see my Website: https://joemccarthy.netlify.app/
+I am currently taking on clients for web development!! For more info see my Website: https://joemccarthy.netlify.app/
 I am currently building an exercise library specifically for older adults at risk of falls.
 
 
