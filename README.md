@@ -1,10 +1,8 @@
 # 💫 About Me:
 Full stack software engineer - focused on web development.
-Developed programs to support my work in Social Prescribing, including a tool that tailors suggestions to support patients on a waiting list for an appointment: signposting to local services for Mental Health, Housing, Benefits and Social Groups. 
+Developed programs to support my work in Social Prescribing, including an online exercise library for seniors, and a tool that tailors suggestions to support patients on a waiting list for an appointment: signposting to local services for Mental Health, Housing, Benefits and Social Groups. 
 
 I am currently taking on clients for web development!! For more info see my Website: https://joemccarthy.netlify.app/
-I am currently building an exercise library specifically for older adults at risk of falls.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joe-mccarthy-199a08159/) 
